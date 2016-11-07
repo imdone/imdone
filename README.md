@@ -8,6 +8,5 @@
   <br/><br/>
 </div>
 
-
-
+imdone is a TODO comment change processor that can create, update and close GitHub issues when you modify comments in your code.  Create an account on <imdone.io>.
 
