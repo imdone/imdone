@@ -8,5 +8,7 @@
   <br/><br/>
 </div>
 
-imdone is a TODO comment change processor that can create, update and close GitHub issues when you modify comments in your code.  Create an account on <imdone.io>.
+imdone is a TODO comment change processor that can create, update and close GitHub issues when you modify comments in your code.  Create an account on [imdone.io](https://imdone.io) and by using todo.txt syntax in your TODO comments you'll be able to stay in the zone and keep your team up to date.
+
+
 
