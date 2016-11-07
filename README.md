@@ -4,7 +4,7 @@
   </a>
 
   <br/>
-  Create and update GitHub issues from TODO comments in your code!  
+  Create and update **GitHub** issues from **TODO** comments in your code!  
   <br/><br/>
 </div>
 
