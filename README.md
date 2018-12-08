@@ -4,11 +4,11 @@
   </a>
 
   <br/>
-  Create and update <strong>GitHub</strong> issues from <strong>TODO</strong> comments in your code!  
+  For developers who like to track tasks, ideas and technical debt in their code.
   <br/><br/>
 </div>
 
-imdone is a programming tool that can create, update and close GitHub issues when you modify comments in your code.  Create an account on [imdone.io](https://imdone.io) and by using todo.txt syntax in your TODO comments you'll be able to stay in the zone and keep your team up to date.
+imdone is a kanban board for TODO comments.  Create a board for your GitHub project at [imdone.io](https://imdone.io).
 
 
 
