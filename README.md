@@ -4,11 +4,11 @@
   </a>
 
   <br/>
-  For developers who like to track tasks, ideas and technical debt in their code.
+  Task management in markdown and code. The way it should be.
   <br/><br/>
 </div>
 
-imdone is a kanban board for TODO comments.  Create a board for your GitHub project at [imdone.io](https://imdone.io).
+Imdone is a simple and powerful kanban board for people who work with markdown and code. Blocks of markdown in your notes, docs and code are represented as cards on your kanban boards. You can add and edit cards using the built in card editor or your favorite text/markdown editor, making it very convenient to update your tasks while you’re working on a markdown document or code.
 
 
 
