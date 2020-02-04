@@ -4,7 +4,7 @@
   </a>
 
   <br/>
-  Task management in markdown and code. The way it should be.
+  <h2>Task management in markdown and code. The way it should be.</h2>
   <br/><br/>
 </div>
 
