@@ -10,5 +10,6 @@
 
 Imdone is a simple and powerful kanban board for people who work with markdown and code. Blocks of markdown in your notes, docs and code are represented as cards on your kanban boards. You can add and edit cards using the built in card editor or your favorite text/markdown editor, making it very convenient to update your tasks while you’re working on a markdown document or code.
 
-
+### Issues and Feature requests
+This repo is intended for imdone users to report bugs and submit feature requests.  Click on the **Issues** tab to get started.
 
