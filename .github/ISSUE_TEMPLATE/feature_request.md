@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
+about: Suggest an enhancement for imdone
 title: ''
 labels: 'enhancement'
 assignees: ''
