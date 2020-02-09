@@ -36,3 +36,8 @@ If applicable, add screenshots to help explain your problem.
 
 **Additional context**
 Add any other context about the problem here.
+
+**DoD**
+- [ ] Issue is understood
+- [ ] Fix is implemented and tested
+- [ ] Fix is deployed in the current release
