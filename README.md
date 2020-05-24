@@ -14,5 +14,5 @@ Imdone is a simple and powerful kanban board for people who work with markdown a
 Visit [imdone.io](https://imdone.io) or [read the docs](https://imdone.io/docs) to get started using imdone today!
 
 ### Issues and Feature requests
-This repo is intended for imdone users to report bugs and submit feature requests.  Click on the **Issues** tab to get started.
+This repo is intended for imdone users to report bugs and submit feature requests.  Click on the [**Issues**](https://github.com/imdone/imdone/issues) tab to get started.
 
