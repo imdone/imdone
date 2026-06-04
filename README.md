@@ -1,8 +1,5 @@
 <div align="center">
-  <a href="https://imdone.io">
-    <img src="https://cloud.githubusercontent.com/assets/233505/20074358/834b497e-a4f5-11e6-9445-344262df3276.png"/>
-  </a>
-
+  <a href="https://imdone.io"><img width="16px" style="margin-top: 6px;" src="https://imdone.io/images/logos/imdone-logo.svg"><span>im<b>done</b></span><!-- END: Mobile Nav--><!-- BEGIN: Navbar--></a>
   <br/>
   <h2 align="center">Task management in markdown and code. The way it should be.</h2>
 </div>
