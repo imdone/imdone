@@ -3,11 +3,11 @@
     <img
       src="https://imdone.io/images/logos/imdone-logo.svg"
       alt=""
-      width="24"
-      height="24"
+      width="40"
+      height="40"
       align="absmiddle"
     />
-    <span style="font-size: 25px; font-weight: 300; color: #464646;">im<b style="font-weight: 500;">done</b></span>
+    <span style="font-size: 42px; font-weight: 300; color: #464646;">im<b style="font-weight: 500;">done</b></span>
   </a>
   <br/>
   <h2 align="center">Task management in markdown and code. The way it should be.</h2>
