@@ -1,5 +1,14 @@
 <div align="center">
-  <a href="https://imdone.io"><img width="16px" style="margin-top: 6px;" src="https://imdone.io/images/logos/imdone-logo.svg"><span>im<b>done</b></span><!-- END: Mobile Nav--><!-- BEGIN: Navbar--></a>
+  <a href="https://imdone.io" aria-label="imdone">
+    <img
+      src="https://imdone.io/images/logos/imdone-logo.svg"
+      alt=""
+      width="24"
+      height="24"
+      align="absmiddle"
+    />
+    <span style="font-size: 25px; font-weight: 300; color: #464646;">im<b style="font-weight: 500;">done</b></span>
+  </a>
   <br/>
   <h2 align="center">Task management in markdown and code. The way it should be.</h2>
 </div>
